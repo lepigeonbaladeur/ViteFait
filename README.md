@@ -27,7 +27,7 @@ L'éditeur décline toute responsabilité concernant son utilisation.
 
 ## 5. Contact
 
-📧 le_pigeon_baladeur@gmail.com
+📧 lepigeonbaladeur@gmail.com
 
 ---
 
